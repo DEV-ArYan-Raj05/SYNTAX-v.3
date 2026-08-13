@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
 void main()
 {
-    int a= 1245;
-    int b=8841;
+    int a= 12;
+    int b=88;
     int c;
 
     c=a+b;

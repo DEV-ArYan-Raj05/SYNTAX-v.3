@@ -14,4 +14,4 @@ int main(){
     f=(a+b+c+d+e)/n;
     printf("%d is your avg marks",f);
     return 0;
-} 
+}  

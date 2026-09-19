@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*Quick Quiz: Write a program to print natural numbers from 10 to 20 when initial loop counter is
-initialized to 0.*/
+initialized to 0. successfull attempt*/
 int main()
 {
     int i = 0; // initialise i as 0

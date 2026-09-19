@@ -3,7 +3,7 @@
 int main() {
 int i=0;
 while(i<4){/*this will check the condition for i ,here if
-    the given value of i is less than 4 or not*/
+    the given value of i is less than 4 or not when true condition will start*/
     printf("happy birthday!!\n");//this will print happy birthday
     i=i+1;/*this will make previous value of i increased by 1 (i+1)
            hence this loop will get repeated unless i<4
